@@ -1,2 +1,2 @@
 # hi
-practice
+practice the github projects
